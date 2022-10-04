@@ -6,11 +6,11 @@ It performs the task to predict a dependent variable value (y) based on a given 
 
 The simplest form of a simple linear regression equation with one dependent and one independent variable is represented by:
 
-<img src="images/simple_linear_regression.png" alt="simple_linear_regression" />
+<img src="images/simple_linear_regression.png" alt="simple_linear_regression" width="500" height="300" class="center"/>
 
 **Similarly for multiple variable** 
 
-<img src="images/multiple_linear_regression.png" alt="multiple_linear_regression" />
+<img src="images/multiple_linear_regression.png" alt="multiple_linear_regression" width="500" height="300" class="center"/>
 
 <p></p>
 
@@ -26,19 +26,40 @@ The dataset contains information about 400 credit card holders, their credit bal
 Contents:
 There are 11 variables.
 
-Income: Income of the customer.
-Limit: Credit limit provided to the customer.
-Rating: The customer's credit rating.
-Cards: The number of credit cards the customer has.
-Age: Age of the customer.
-Education: Educational level of the customer.¶
-Gender: Sex of the customer.
-Student: If the customer is a student or not.
-Married: If the customer is married.
-Ethnicity: Ethnicity of the customer.
-Balance: Credit balance of the customer.
+1. Income: Income of the customer.
+2. Limit: Credit limit provided to the customer.
+3. Rating: The customer's credit rating.
+4. Cards: The number of credit cards the customer has.
+5. Age: Age of the customer.
+6. Education: Educational level of the customer.¶
+7. Gender: Sex of the customer.
+8. Student: If the customer is a student or not.
+9. Married: If the customer is married.
+10. Ethnicity: Ethnicity of the customer.
+11. Balance: Credit balance of the customer.
 
 To solve this problem we use the above data and try to predict the Credit Rating of the customer.
 
 Code Link: 
 Linear_regression: LinearRegression.ipynb
+
+## Installing statsmodels
+
+To obtain the latest released version of statsmodels using pip:
+```
+python -m pip install statsmodels
+```
+
+## Dependencies
+The current minimum dependencies are:
+```
+Python >= 3.8
+
+NumPy >= 1.18
+
+SciPy >= 1.4
+
+Pandas >= 1.0
+
+Patsy >= 0.5.2
+```
