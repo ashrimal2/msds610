@@ -6,11 +6,11 @@ It performs the task to predict a dependent variable value (y) based on a given 
 
 The simplest form of a simple linear regression equation with one dependent and one independent variable is represented by:
 
-<img src="images/simple_linear_regression.png" alt="simple_linear_regression" />
+<img src="images/simple_linear_regression.png" alt="simple_linear_regression" width="500" height="600" />
 
 **Similarly for multiple variable** 
 
-<img src="images/multiple_linear_regression.png" alt="multiple_linear_regression" />
+<img src="images/multiple_linear_regression.png" alt="multiple_linear_regression" width="500" height="600"/>
 
 <p></p>
 
