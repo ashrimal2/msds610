@@ -17,8 +17,6 @@ The simplest form of a simple linear regression equation with one dependent and 
 
 ## Project
 
-<img src="images/sale estimation of a company.PNG" alt="sale estimation of a company.PNG" />
-
 Let’s consider a problem statement, we want to predict Credit Rating of a customer based on certain information of the customer.
 
 Dataset Information:
