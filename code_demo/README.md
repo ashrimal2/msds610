@@ -63,3 +63,8 @@ Pandas >= 1.0
 
 Patsy >= 0.5.2
 ```
+
+## Group members:
+1. Adit Pramod Shrimal (https://www.linkedin.com/in/aditshrimal/)
+2. Justin Chan (https://www.linkedin.com/in/justinjchan/)
+3. Prithvi Nuthanakalva (https://www.linkedin.com/in/pnuthanakalva/)
