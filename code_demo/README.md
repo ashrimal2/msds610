@@ -42,3 +42,24 @@ To solve this problem we use the above data and try to predict the Credit Rating
 
 Code Link: 
 Linear_regression: LinearRegression.ipynb
+
+## Installing statsmodels
+
+To obtain the latest released version of statsmodels using pip:
+```
+python -m pip install statsmodels
+```
+
+## Dependencies
+The current minimum dependencies are:
+```
+Python >= 3.8
+
+NumPy >= 1.18
+
+SciPy >= 1.4
+
+Pandas >= 1.0
+
+Patsy >= 0.5.2
+```
