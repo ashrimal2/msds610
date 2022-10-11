@@ -8,7 +8,14 @@
     response = intercept + constant ∗explanatory 
 - In its most basic form fits a straight line to the response variable. The model is designed to fit a line that minimizes the squared differences (also called errors or residuals.). 
 
-## Why should you use Linear Regression?
+## Why should we use Linear Regression?
 
 <center><img src='images/lincoln.jpeg'></center>
 
+1. Linear Regression is very versitile and is widly applicational
+    - Used in many different industries: Tech, Marketing, Medical
+2. Linear Regression is easily understandable and explain
+    - Provides concrete data that can be interpreted
+    - Theory/Math behind the implementation is not difficult
+3. Linear Regression is very simple to implement but still very powerful
+    - Many different libraries and functions used to create ordinary least squares models
