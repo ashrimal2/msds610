@@ -19,3 +19,19 @@
     - Theory/Math behind the implementation is not difficult
 3. Linear Regression is very simple to implement but still very powerful
     - Many different libraries and functions used to create ordinary least squares models
+
+## Applications of Linear Regression:
+1. Predicting amount of money allocated for gas
+    - Predictors: MPG, miles travelling, etc
+2. Predicting the average grades of students in a class
+    - Predictors: hours spent studying per week, current GPA, age, etc.
+3. Insert Adit/Prithvi Application
+4. Insert Adit/Prithvi Application
+
+
+## Big Picture Of Linear Regression
+- Linear Regression is a very common/popuar regression method
+    - used for predicting values
+- Linear Regression is versatile and widely applicational
+    - can be used in various different types of industries
+- Linear Regression is less of a black box and is easily communicated and implemented
