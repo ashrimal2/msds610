@@ -26,7 +26,8 @@
 2. Predicting the average grades of students in a class
     - Predictors: hours spent studying per week, current GPA, age, etc.
 3. Insert Adit/Prithvi Application
-4. Insert Adit/Prithvi Application
+4. Least Squares estimates (the core principle behind Linear Regression) has applications in other domains
+    - GPS positioning uses Weighted Linear Squares estimation to compute the user location. When applications like Google Maps/Uber require location, this procedure is invoked in the background.
 
 
 ## Big Picture Of Linear Regression
