@@ -34,14 +34,13 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 
 <center><img src='images/apply.png'></center>
 
-1. Studying engine performance from test data in automobiles
-2. Least squares regression is used to model causal relationships between parameters in biological systems
-3. OLS regression can be used in weather data analysis
-4. Linear regression can be used in market research studies and customer survey results analysis
-5. Linear regression is used in observational astronomy commonly enough. A number of statistical tools and methods are used in astronomical data analysis, and there are entire libraries in languages like Python meant to do data analysis in astrophysics.
-6. Least Squares estimates (the core principle behind Linear Regression) has applications in other domains
+1. Studying automobile engine performance
+2. Weather data analysis
+3. Analysis of Customer Survey results and market research studies
+4. Observational astronomy
+5. Least Squares estimates (the core principle behind Linear Regression) has applications in other domains
     - GPS positioning uses Weighted Linear Squares estimation to compute the user location. When applications like Google Maps/Uber require location, this procedure is invoked in the background.
-7. Predict future sales of products with the help of its historical data.
+6. Predict future sales of products with the help of its historical data.
 
 ### Let's deep dive in the *Sales Prediction* project.
 
