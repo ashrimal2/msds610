@@ -103,7 +103,7 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 
 
 ## Big Picture Of Linear Regression
-- Linear Regression is a very common/popuar regression method
+- Linear Regression is a very common/popular regression method
 - Linear Regression is versatile and widely applicational
 - Linear Regression is less of a black box and is easily communicated and implemented
 
