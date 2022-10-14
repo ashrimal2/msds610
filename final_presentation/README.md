@@ -98,7 +98,6 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
         - Product ranking allows you to have granular control over the products that appear and their sequence in search results and on listing pages.
         - Earlier this process was done manually which took around 2 hours.
         - Using sales predictions to rank the products not only outperformed the existing approach in terms of revenue generated, but also removed manual efforts completely.
-
 <br><br>
 ## Big Picture Of Linear Regression
 - Linear Regression is a very common/popular regression method
@@ -109,7 +108,6 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 
 Please refer our example notebook. 
 Code Link: <a href='https://github.com/ashrimal2/msds610/blob/main/code_demo/LinearRegression.ipynb'>LinearRegression.ipynb</a> (library used for Linear Regression is *statsmodels*)
-
 <br><br>
 ## Installing statsmodels
 
@@ -131,7 +129,6 @@ Pandas >= 1.0
 
 Patsy >= 0.5.2
 ```
-<br><br>
 ## Group members:
 1. Adit Pramod Shrimal (https://www.linkedin.com/in/aditshrimal/)
 2. Justin Chan (https://www.linkedin.com/in/justinjchan/)
