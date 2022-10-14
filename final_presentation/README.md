@@ -19,14 +19,11 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 
 <center><img src='images/why.png'></center>
 
-1. Linear Regression is very versitile and is widly applicational
-    - Regression analysis allows you to understand the strength of relationships between variables.
-    - Regression analysis tells you what predictors in a model are statistically significant and which are not. 
-    - Regression analysis can give a confidence interval for each regression coefficient that it estimates.
-2. Linear Regression is easily understandable and explain
-    Important factors that I always consider when choosing a model are how *simple* it and how *interpretable* it is. Why?
-    - A simpler model means it’s easier to communicate how the model itself works and how to interpret the results of a model.
-3. Linear Regression is very simple to implement but still very powerful
+1. Linear Regression is very versitile and is widely applicational
+2. Linear Regression is easily understandable and easy to explain 
+    - Its easy to figure out which predictors in the model are significant statistically
+    - We can also compute confidence intervals for the estimated parameters
+4. Linear Regression is very simple to implement but still very powerful
 <br><br>
 ## Applications of Linear Regression:
 
