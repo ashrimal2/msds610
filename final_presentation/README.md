@@ -19,7 +19,7 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 
 <center><img src='images/why.png'></center>
 
-1. Linear Regression is very versitile and is widely applicational
+1. Linear Regression is very versatile and is widely applicational
 2. Linear Regression is easily understandable and easy to explain 
     - Its easy to figure out which predictors in the model are significant statistically
     - We can also compute confidence intervals for the estimated parameters
