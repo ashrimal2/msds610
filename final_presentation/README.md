@@ -14,7 +14,7 @@ In case of more than one independent variable (Multiple linear regression), we w
 
 $$\mathbf{y_{i} = \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} + .... \beta_n  x_{in} + \epsilon}$$  
 $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
-
+<br><br>
 ## Why should we use Linear Regression?
 
 <center><img src='images/why.png'></center>
@@ -25,11 +25,9 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
     - Regression analysis can give a confidence interval for each regression coefficient that it estimates.
 2. Linear Regression is easily understandable and explain
     Important factors that I always consider when choosing a model are how *simple* it and how *interpretable* it is. Why?
-    
-    <br></t></t>A simpler model means it’s easier to communicate how the model itself works and how to interpret the results of a model.
+    - A simpler model means it’s easier to communicate how the model itself works and how to interpret the results of a model.
 3. Linear Regression is very simple to implement but still very powerful
 <br><br>
-
 ## Applications of Linear Regression:
 
 <center><img src='images/apply.png'></center>
@@ -42,7 +40,7 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
     - GPS positioning uses Weighted Linear Squares estimation to compute the user location. When applications like Google Maps/Uber require location, this procedure is invoked in the background.
 6. Predict future sales of products with the help of its historical data.
 
-### Let's deep dive in the *Sales Prediction* project.
+### Let's deep dive in the *Sales Prediction* project
 
 #### What is *Sales Prediction*?
 
@@ -93,15 +91,15 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 
 #### Applications of *Sales Prediction*
 1. We used these predictions for two particular applications. They are:
-    a. Inventory Management
+    - Inventory Management
         - Sales prediction helped us in estimating product sales. We used these estimates to decide the quantities of the products to be manufactured.
         
-    b. Product Ranking algorithm
+    - Product Ranking algorithm
         - Product ranking allows you to have granular control over the products that appear and their sequence in search results and on listing pages.
         - Earlier this process was done manually which took around 2 hours.
         - Using sales predictions to rank the products not only outperformed the existing approach in terms of revenue generated, but also removed manual efforts completely.
 
-
+<br><br>
 ## Big Picture Of Linear Regression
 - Linear Regression is a very common/popular regression method
 - Linear Regression is versatile and widely applicational
@@ -112,6 +110,7 @@ $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
 Please refer our example notebook. 
 Code Link: <a href='https://github.com/ashrimal2/msds610/blob/main/code_demo/LinearRegression.ipynb'>LinearRegression.ipynb</a> (library used for Linear Regression is *statsmodels*)
 
+<br><br>
 ## Installing statsmodels
 
 To obtain the latest released version of statsmodels using pip:
@@ -132,7 +131,7 @@ Pandas >= 1.0
 
 Patsy >= 0.5.2
 ```
-
+<br><br>
 ## Group members:
 1. Adit Pramod Shrimal (https://www.linkedin.com/in/aditshrimal/)
 2. Justin Chan (https://www.linkedin.com/in/justinjchan/)
