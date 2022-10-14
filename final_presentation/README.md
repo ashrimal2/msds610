@@ -2,19 +2,19 @@
 
 <center><img src='images/slr.png' width="600" height="400" ></center>
 
-The term "regression"  generally refers to predicting a real number. However, it can also be used for classification (predicting a category or class). Linear regression is a simple machine learning model which tries to establish a relationship between a target variable y and a set of input features x, assuming that the underlying relationship between the two is linear in nature.
+Linear regression is a simple machine learning model which tries to establish a relationship between a target variable y and a set of input features x, assuming that the underlying relationship between the two is linear in nature.
 
-A linear combination is an expression where one or more variables are scaled by a constant factor and added together. 
-In the case of linear regression with a single explanatory variable, the linear combination used in linear regression can be expressed as:
-    $$\mathbf{y_{i} = \beta_0 + \beta_1 x_i + \epsilon}$$   
-    $\mathbf{\beta_0,\beta_1}$ are the parameters. Our goal is to estimate the parameters
-    $\mathbf{\beta_0,\beta_1}$ using the training data where $\mathbf{(x_i, y_i)}$ are training examples
+The linear regression equation can be represented as
 
-In case of more than one independent variable (Multiple linear regression), we will use $\mathbf{x_{ij}}$ to denote the indepedent variable and $\mathbf{y_{i}}$ to denote the dependent variable.The linear regression equation can be represented as
+$$\mathbf{ h_\beta(x_{i}) = \beta_0 + \beta_1x_i }$$   
+$\mathbf{\beta_0,\beta_1}$ are the parameters. Our goal is to estimate the parameters $\mathbf{\beta_0,\beta_1}$ using the training data where $\mathbf{(x_i, y_i)}$ are training examples
 
-$$\mathbf{y_{i} = \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} + .... \beta_n  x_{in} + \epsilon}$$  
+In case of more than one independent variable (Multiple linear regression), we will use $\mathbf{x_{ij}}$ to denote the indepedent variable and $\mathbf{y_{i}}$ to denote the dependent variable.
+
+The linear regression equation can be represented as
+
+$$\mathbf{h_\beta(x_{i}) = \beta_0 + \beta_1x_{i1} + \beta_2 x_{i2} + .... \beta_n  x_{in} }$$  
 $\mathbf{\beta_0,\beta_1,...,\beta_n}$ are the parameters.
-<br><br>
 ## Why should we use Linear Regression?
 
 <center><img src='images/why.png'></center>
